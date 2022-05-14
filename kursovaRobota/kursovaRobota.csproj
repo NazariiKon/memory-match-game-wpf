@@ -6,4 +6,74 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="bee.png" />
+    <None Remove="cat.png" />
+    <None Remove="cow.png" />
+    <None Remove="dog.png" />
+    <None Remove="fox.png" />
+    <None Remove="hen.png" />
+    <None Remove="horse.png" />
+    <None Remove="lion.png" />
+    <None Remove="owl.png" />
+    <None Remove="panda.png" />
+    <None Remove="Resources\bee.png" />
+    <None Remove="Resources\cat.png" />
+    <None Remove="Resources\cow.png" />
+    <None Remove="Resources\dog.png" />
+    <None Remove="Resources\fox.png" />
+    <None Remove="Resources\hen.png" />
+    <None Remove="Resources\horse.png" />
+    <None Remove="Resources\lion.png" />
+    <None Remove="Resources\owl.png" />
+    <None Remove="Resources\panda.png" />
+    <None Remove="Resources\rubashka.jpg" />
+    <None Remove="Resources\snake.png" />
+    <None Remove="Resources\whale.png" />
+    <None Remove="snake.png" />
+    <None Remove="whale.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\bee.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\cat.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\cow.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\dog.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\fox.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\hen.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\horse.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\lion.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\owl.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\panda.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\rubashka.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\snake.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Resources\whale.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
 </Project>
