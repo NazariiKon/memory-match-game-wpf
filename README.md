@@ -9,7 +9,7 @@
 - Clear all 12 pairs!
 
 ### Start Screen
-<img src="screenshots/main.png" alt="Start Screen">
+<img src="main.png" alt="Start Screen">
 
 ### Gameplay
 - Flip cards to reveal animals
@@ -17,7 +17,7 @@
 - Find all matching pairs
 
 ### Matching Cards
-<img src="screenshots/cards.png" alt="Matching Cards">
+<img src="cards.png" alt="Matching Cards">
 
 ## 🛠️ Tech Stack
 ```
@@ -29,7 +29,7 @@
 ```
 
 ### Final Result
-<img src="screenshots/last.png" alt="Game Complete">
+<img src="last.png" alt="Game Complete">
 
 ## 💡 Skills Learned
 ```
